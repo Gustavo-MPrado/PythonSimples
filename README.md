@@ -1,5 +1,5 @@
 # Classificação
-Aprendizado e pratica do puthon
+Aprendizado e pratica do python
 
 # Introdução
 Repositorio para testes e desenvolvimento com python
